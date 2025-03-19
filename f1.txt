@@ -1,0 +1,5 @@
+total 4
+drwxr-xr-x 1 michelva 1049089 0 Mar 19 22:42 ./
+drwxr-xr-x 1 michelva 1049089 0 Mar 19 20:17 ../
+drwxr-xr-x 1 michelva 1049089 0 Mar 19 22:25 .git/
+-rw-r--r-- 1 michelva 1049089 0 Mar 19 22:42 f1.txt
